@@ -1,0 +1,23 @@
+* photoshopped a can of #pineapplesoda
+* got the build system working with placeholders for deploy location
+* added (not very comprehensive) tests
+* added readme and boilerplate for hosting static pages
+
+
+TODO:
+
+* documentation!
+* more useful tests
+* finish setting up deploy locations
+* Facebook SignIn
+* Post to Facebook
+* Tag People
+* Choose a Location
+* RSVP
+* See RSVP on map
+* Create a Playlist
+* Add to Playlist
+* Limit a party size/Respect party size limit
+* See RSVP List
+* Request Uber Ride
+test

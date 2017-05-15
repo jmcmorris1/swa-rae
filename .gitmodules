@@ -1,0 +1,3 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/lbarchard/project-one-take-two.git

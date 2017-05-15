@@ -1,0 +1,9 @@
+/*jslint node:true*/
+/*jslint loopfunc:true*/
+'use strict';
+
+exports.api_key = function () {
+	// NO I DIDNT COMMIT THE API KEY TO GITHUB I PROMISE!
+	return "<YOUR API KEY GOES HERE>";
+	// seriously, dont do that.
+};
